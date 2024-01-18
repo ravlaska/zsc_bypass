@@ -14,3 +14,7 @@ There are 2 options in the script:
 <br>
 ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser```
 <br>
+<br><b>
+If you have admin privileges, but PowerShell blocked - try to use ```simple-killer.bat```
+<br>
+This script is killing ZScaler processes in a loop, so it needs to run whole time.
